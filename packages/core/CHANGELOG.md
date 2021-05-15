@@ -1,5 +1,12 @@
 # @usedapp/core
 
+## 0.3.18
+
+### Patch Changes
+
+- 42efd99: Expose useConfig as public API
+- 111acee: Set TransactionStatus as interface and move it to model
+
 ## 0.3.17
 
 ### Patch Changes
